@@ -1,0 +1,7 @@
+id,title,content,source
+1,What is Artificial Intelligence,"Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think, learn, and make decisions.",AI Basics
+2,Types of Artificial Intelligence,"AI is classified into Narrow AI, General AI, and Super AI based on capabilities.",AI Fundamentals
+3,Machine Learning,Machine Learning is a subset of AI that enables systems to learn from data without being explicitly programmed.,ML Guide
+4,Deep Learning,Deep Learning uses neural networks with multiple layers to perform complex tasks such as image and speech recognition.,DL Notes
+5,Retrieval Augmented Generation,RAG combines document retrieval with language models to generate grounded and accurate responses.,LangChain Docs
+6,Why RAG is Important,RAG reduces hallucinations by grounding LLM outputs in external knowledge sources like CSV and PDF files.,AI Architecture

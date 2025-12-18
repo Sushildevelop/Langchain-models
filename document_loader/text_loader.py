@@ -13,7 +13,7 @@ loader=TextLoader('ai.txt',encoding='utf-8')
 docs=loader.load()
 
 prompt1=PromptTemplate(
-    template='Write a detailed report on {topic}',
+    template='Write a short report on {topic} in 10 lines',
     input_variables=['topic']
 )
 
@@ -21,6 +21,6 @@ parser=StrOutputParser()
 
 chain=prompt1 | model | parser
 
-print(docs)
+print(chain.invoke({'topic':docs[0].page_content}))
 
 

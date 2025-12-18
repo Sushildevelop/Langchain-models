@@ -9,6 +9,7 @@ dependencies = [
     "huggingface-hub>=1.1.6",
     "langchain>=0.3.27",
     "langchain-anthropic>=0.3.22",
+    "langchain-community>=0.3.31",
     "langchain-core>=0.3.80",
     "langchain-google-genai>=2.0.10",
     "langchain-huggingface>=0.3.1",

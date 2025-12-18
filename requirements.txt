@@ -6,6 +6,8 @@ langchain-core
 langchain-openai
 openai
 
+langchain-community
+
 #Anthropic integration
 langchain-anthropic
 google-generativeai

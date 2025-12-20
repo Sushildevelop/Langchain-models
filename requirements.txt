@@ -30,3 +30,8 @@ scikit-learn
 
 streamlit
 pypdf
+
+chromadb
+tiktoken
+
+langchain-chroma

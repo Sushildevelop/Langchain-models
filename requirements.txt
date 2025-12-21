@@ -35,3 +35,7 @@ chromadb
 tiktoken
 
 langchain-chroma
+
+wikipedia
+
+faiss-cpu 

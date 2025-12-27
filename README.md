@@ -13,7 +13,7 @@ Backend developers building LLM-powered applications
 
 🧰 Tech Stack
 
-Python 3.9+
+Python 3.11+
 
 LangChain
 
@@ -27,7 +27,7 @@ Jupyter Notebook
 
 ⚙️ Python Environment Setup (Start Here)
 1️⃣ Clone the Repository
-git clone https://github.com/Sushildevelop/langchain-project.git
+git clone https://github.com/Sushildevelop/Langchain-models.git
 cd langchain-project
 
 2️⃣ Create Virtual Environment
@@ -244,3 +244,4 @@ Backend Developer | Python | LangChain | Generative AI
 
 
 pip install -U ddgs duckduckgo-search langchain-community
+

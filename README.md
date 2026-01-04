@@ -184,6 +184,8 @@ FAISS
 
 Embeddings storage and similarity search
 
+Pincone
+
 🔐 .env.example
 
 Template file for storing environment variables safely.
@@ -225,7 +227,7 @@ Production-ready APIs
 
 ⭐ Support & Contribution
 
-If you find this repository helpful:
+If you find this repository helpful: 
 
 ⭐ Star the repo
 
@@ -244,4 +246,5 @@ Backend Developer | Python | LangChain | Generative AI
 
 
 pip install -U ddgs duckduckgo-search langchain-community
+
 

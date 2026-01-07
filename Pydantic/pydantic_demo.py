@@ -10,10 +10,12 @@ class Review(BaseModel):
 
     summary:str
     sentiment:str
+    review:str
 
 
 structured_model=model.with_structured_output(Review)
 
 result=structured_model.invoke("""The hardware is great but the software has some bugs that need to be fixed.""")
+
 
 print(result)

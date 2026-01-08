@@ -16,4 +16,7 @@ class Duplicate:
 
 llm=Duplicate()
 
+
+
+
 llm.predict('What is the capital of India')
